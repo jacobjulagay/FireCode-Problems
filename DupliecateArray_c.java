@@ -22,9 +22,6 @@ public class DupliecateArray {
 					String sortingToString = Arrays.toString(tempArray);
 					sortedArray = sortingToString;
 				}		
-				if(tempArray[i] == 0) {
-					
-				}
 					
 				
 			}	
